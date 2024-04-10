@@ -4,7 +4,7 @@ Developing, Sporting, and Running.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhant-bhardwaj-a42686251) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=leetcode&logoColor=white&style=for-the-badge&labelColor=black
+[![LeetCode](https://img.shields.io/badge/LeetCode-white.svg?logo=leetcode&style=for-the-badge&labelColor=black
 )](https://leetcode.com/Sidop_234/) 
 
 # 💻 Tech Stack:
