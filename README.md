@@ -3,7 +3,7 @@ Coding, Developing, and Sporting.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhant-bhardwaj-a42686251) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhantbhardwaj234) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%231F4287.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Sidop_234/)
 
 # 💻 Tech Stack:
